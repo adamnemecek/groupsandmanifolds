@@ -1,0 +1,408 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}FUNDAMENTAL NOTIONS of ALGEBRA}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Groups}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Some examples}{2}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Abelian groups}{3}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}The group commutator}{3}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Conjugate elements}{3}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Order and dimension of a group}{3}{subsection.1.2.5}
+\contentsline {subsubsection}{\numberline {1.2.5.1}Examples}{3}{subsubsection.1.2.5.1}
+\contentsline {subsection}{\numberline {1.2.6}Order of an element}{4}{subsection.1.2.6}
+\contentsline {subsubsection}{\numberline {1.2.6.1}Observations}{4}{subsubsection.1.2.6.1}
+\contentsline {subsection}{\numberline {1.2.7}The multiplication table of a finite group}{4}{subsection.1.2.7}
+\contentsline {subsection}{\numberline {1.2.8}Homomorphisms, isomorphisms, automorphisms}{5}{subsection.1.2.8}
+\contentsline {subsubsection}{\numberline {1.2.8.1}Homomorphisms}{5}{subsubsection.1.2.8.1}
+\contentsline {subsubsection}{\numberline {1.2.8.2}Isomorphisms}{5}{subsubsection.1.2.8.2}
+\contentsline {subsubsection}{\numberline {1.2.8.3}Automorphisms}{5}{subsubsection.1.2.8.3}
+\contentsline {subsection}{\numberline {1.2.9}Rank, generators, relations (a first bird--eye view)}{6}{subsection.1.2.9}
+\contentsline {subsubsection}{\numberline {1.2.9.1}Presentation of a group: relations}{6}{subsubsection.1.2.9.1}
+\contentsline {subsubsection}{\numberline {1.2.9.2}Examples}{7}{subsubsection.1.2.9.2}
+\contentsline {subsection}{\numberline {1.2.10}Subgroups}{7}{subsection.1.2.10}
+\contentsline {section}{\numberline {1.3}Rings}{8}{section.1.3}
+\contentsline {section}{\numberline {1.4}Fields}{8}{section.1.4}
+\contentsline {section}{\numberline {1.5}Vector Spaces}{9}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Dual vector spaces}{10}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Inner products}{11}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Agebras}{12}{section.1.6}
+\contentsline {section}{\numberline {1.7}Lie Algebras}{12}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Homomorphism}{13}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Subalgebras and Ideals}{13}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Representations}{14}{subsection.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}Isomorphism}{14}{subsection.1.7.4}
+\contentsline {subsection}{\numberline {1.7.5}Adjoint representation}{14}{subsection.1.7.5}
+\contentsline {section}{\numberline {1.8}Moduli and representations}{14}{section.1.8}
+\contentsline {section}{\numberline {1.9}Bibliographical Note}{16}{section.1.9}
+\contentsline {chapter}{\numberline {2}GROUPS: A BESTIARY for BEGINNERS}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Survey of the contents of this chapter}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}Groups of matrices}{17}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}General linear groups}{17}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Special linear groups}{18}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Unitary groups}{18}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Special unitary groups}{18}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Orthogonal groups}{19}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Special orthogonal groups}{19}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Symplectic groups}{19}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}Groups of transformations}{20}{subsection.2.2.8}
+\contentsline {section}{\numberline {2.3}Some examples of finite groups}{20}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}The permutation groups $S_n$}{21}{subsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.1.1}Cycle decomposition}{21}{subsubsection.2.3.1.1}
+\contentsline {subsubsection}{\numberline {2.3.1.2}Odd and even permutations}{22}{subsubsection.2.3.1.2}
+\contentsline {subsubsection}{\numberline {2.3.1.3}The alternating groups}{22}{subsubsection.2.3.1.3}
+\contentsline {section}{\numberline {2.4}Groups as the invariances of a given geometry}{22}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}The euclidian groups}{23}{subsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.1.1}The euclidian group in two dimensions}{23}{subsubsection.2.4.1.1}
+\contentsline {subsubsection}{\numberline {2.4.1.2}The euclidian group in three dimensions}{24}{subsubsection.2.4.1.2}
+\contentsline {subsection}{\numberline {2.4.2}Projective geometry}{25}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}The M\"obius group}{25}{subsubsection.2.4.2.1}
+\contentsline {section}{\numberline {2.5}Matrix groups and vector spaces}{26}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}General linear groups and basis changes in vector spaces}{26}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Tensor product spaces}{26}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}(Anti)-symmetrized product spaces}{27}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Exterior Forms}{27}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Special linear groups as volume-preserving transformations}{30}{subsection.2.5.5}
+\contentsline {subsection}{\numberline {2.5.6}Metric-preserving changes of basis}{30}{subsection.2.5.6}
+\contentsline {subsubsection}{\numberline {2.5.6.1}Example}{33}{subsubsection.2.5.6.1}
+\contentsline {subsection}{\numberline {2.5.7}Isometries}{33}{subsection.2.5.7}
+\contentsline {section}{\numberline {2.6}Bibliographical Note}{34}{section.2.6}
+\contentsline {chapter}{\numberline {3}BASIC ELEMENTS of FINITE GROUP THEORY}{35}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{35}{section.3.1}
+\contentsline {section}{\numberline {3.2}Basic notions and structural theorems for finite groups}{36}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Cayley's theorem}{36}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Regular permutations}{37}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Groups of prime order}{37}{subsubsection.3.2.1.2}
+\contentsline {subsection}{\numberline {3.2.2}Left and right cosets}{38}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Lagrange's theorem}{38}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Conjugacy classes}{39}{subsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.4.1}Example: conjugacy classes of the symmetric groups}{39}{subsubsection.3.2.4.1}
+\contentsline {subsection}{\numberline {3.2.5}Conjugate subgroups}{41}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Invariant subgroups}{41}{subsection.3.2.6}
+\contentsline {subsubsection}{\numberline {3.2.6.1}Left and right cosets }{42}{subsubsection.3.2.6.1}
+\contentsline {subsection}{\numberline {3.2.7}Factor groups}{42}{subsection.3.2.7}
+\contentsline {subsubsection}{\numberline {3.2.7.1}Example}{42}{subsubsection.3.2.7.1}
+\contentsline {subsection}{\numberline {3.2.8}Centre, centralizers, normalizers}{43}{subsection.3.2.8}
+\contentsline {subsubsection}{\numberline {3.2.8.1}The centre of a group}{43}{subsubsection.3.2.8.1}
+\contentsline {subsubsection}{\numberline {3.2.8.2}The centralizer of a subset}{43}{subsubsection.3.2.8.2}
+\contentsline {subsubsection}{\numberline {3.2.8.3}\sc Example: centralizers of permutations}{43}{subsubsection.3.2.8.3}
+\contentsline {subsubsection}{\numberline {3.2.8.4}The normalizer of a subset}{43}{subsubsection.3.2.8.4}
+\contentsline {subsection}{\numberline {3.2.9}The derived group}{44}{subsection.3.2.9}
+\contentsline {subsection}{\numberline {3.2.10}Simple, semi-simple, solvable groups}{44}{subsection.3.2.10}
+\contentsline {subsection}{\numberline {3.2.11}Examples of simple groups}{45}{subsection.3.2.11}
+\contentsline {subsubsection}{\numberline {3.2.11.1}Cyclic groups of prime order}{45}{subsubsection.3.2.11.1}
+\contentsline {subsubsection}{\numberline {3.2.11.2}The alternating groups $A_n$}{45}{subsubsection.3.2.11.2}
+\contentsline {subsection}{\numberline {3.2.12}Homomorphism theorems}{45}{subsection.3.2.12}
+\contentsline {subsection}{\numberline {3.2.13}Direct products}{46}{subsection.3.2.13}
+\contentsline {subsubsection}{\numberline {3.2.13.1}Example}{47}{subsubsection.3.2.13.1}
+\contentsline {subsection}{\numberline {3.2.14}Action of a group on a set}{47}{subsection.3.2.14}
+\contentsline {subsection}{\numberline {3.2.15}Semi-direct products}{49}{subsection.3.2.15}
+\contentsline {subsubsection}{\numberline {3.2.15.1}The Euclidian Groups}{50}{subsubsection.3.2.15.1}
+\contentsline {subsubsection}{\numberline {3.2.15.2}The Poincar\'e group}{50}{subsubsection.3.2.15.2}
+\contentsline {subsection}{\numberline {3.2.16}Extensions of a group}{51}{subsection.3.2.16}
+\contentsline {subsubsection}{\numberline {3.2.16.1}Splitting of a group}{51}{subsubsection.3.2.16.1}
+\contentsline {subsubsection}{\numberline {3.2.16.2}Reconstructing a group by splitting extension}{52}{subsubsection.3.2.16.2}
+\contentsline {subsubsection}{\numberline {3.2.16.3}Direct and semi-direct products}{52}{subsubsection.3.2.16.3}
+\contentsline {subsection}{\numberline {3.2.17}Abelian groups}{52}{subsection.3.2.17}
+\contentsline {section}{\numberline {3.3}The linear representations of finite groups}{52}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Schur's Lemmas}{54}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Orthogonality relations}{55}{subsubsection.3.3.1.1}
+\contentsline {subsection}{\numberline {3.3.2}Characters}{57}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Decomposition of a representation into irreducible representations}{59}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}The regular representation}{59}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Strategy to construct the irreducible representations of a solvable group}{60}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}The inductive algorithm for irreps}{61}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}A) Uplifting of self conjugate representations.}{62}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}B) Uplifting of not self conjugate representations.}{63}{subsubsection.3.4.2.1}
+\contentsline {subsection}{\numberline {3.4.3}The Octahedral Group $\mathrm {O_{24}}\sim \mathrm {S_4}$ and its irreps}{63}{subsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.3.1}The solvable structure of $\mathrm {O_{24}}$}{65}{subsubsection.3.4.3.1}
+\contentsline {subsubsection}{\numberline {3.4.3.2}Irreps of $\mathrm {N_4}$ (Klein group)}{66}{subsubsection.3.4.3.2}
+\contentsline {subsubsection}{\numberline {3.4.3.3}The irreps of $\mathrm {N_{12}}$ by induction}{66}{subsubsection.3.4.3.3}
+\contentsline {subsubsection}{\numberline {3.4.3.4}\bf representation $\Pi _1$=identity}{67}{subsubsection.3.4.3.4}
+\contentsline {subsubsection}{\numberline {3.4.3.5}\bf representation $\Pi _2$}{67}{subsubsection.3.4.3.5}
+\contentsline {subsubsection}{\numberline {3.4.3.6}\bf representation $\Pi _3$}{67}{subsubsection.3.4.3.6}
+\contentsline {subsubsection}{\numberline {3.4.3.7}\bf the 3-dimensional representation $\Pi _4$}{68}{subsubsection.3.4.3.7}
+\contentsline {subsubsection}{\numberline {3.4.3.8}The irreps of the octahedral group}{68}{subsubsection.3.4.3.8}
+\contentsline {section}{\numberline {3.5}Bibliographical Note}{69}{section.3.5}
+\contentsline {chapter}{\numberline {4}FINITE SUBGROUPS of SO(3) and CRYSTALLOGRAPHIC GROUPS}{71}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{71}{section.4.1}
+\contentsline {section}{\numberline {4.2}The ADE classification of the finite subgroups of $\mathrm {SU(2)}$}{72}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}The argument leading to the Diophantine equation}{73}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Case $r=2$: the infinite series of cyclic groups $\mathbb {A}_n$}{77}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Case $r=3$ and its solutions }{78}{subsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.3.1}The solution $(k,2,2)$ and the dihedral groups $\mathrm {Dih}_{k}$}{79}{subsubsection.4.2.3.1}
+\contentsline {subsubsection}{\numberline {4.2.3.2}The three isolated solutions corresponding to the tetrahedral, octahedral and icosahedral groups}{80}{subsubsection.4.2.3.2}
+\contentsline {subsection}{\numberline {4.2.4}Summary of the ADE classification of finite rotation groups}{82}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Lattices and Crystallographic Groups}{83}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Lattices}{84}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}The $n$-torus $\mathrm {T}^n$}{84}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Crystallographic groups and the Bravais lattices for $n=3$}{85}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}The proper Point Groups}{86}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}The Cubic Lattice and the Octahedral Point Group}{87}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Irreducible representations of the Octahedral Group}{88}{subsection.4.3.6}
+\contentsline {subsubsection}{\numberline {4.3.6.1}$D_1$ : the identity representation}{88}{subsubsection.4.3.6.1}
+\contentsline {subsubsection}{\numberline {4.3.6.2}$D_2$ : the quadratic Vandermonde representation}{88}{subsubsection.4.3.6.2}
+\contentsline {subsubsection}{\numberline {4.3.6.3}$D_3$ : the two-dimensional representation}{88}{subsubsection.4.3.6.3}
+\contentsline {subsubsection}{\numberline {4.3.6.4}$D_4$ : the three-dimensional defining representation}{89}{subsubsection.4.3.6.4}
+\contentsline {subsubsection}{\numberline {4.3.6.5}$D_5$ : the three-dimensional unoriented representation}{89}{subsubsection.4.3.6.5}
+\contentsline {section}{\numberline {4.4}A simple crystallographic point-group in $7$ dimensions}{90}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}The simple group $L_{168}$}{91}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Structure of the simple group $\mathrm {L_{168}}=\mathrm {PSL(2,\mathbb {Z}_7)}$}{92}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}The $7$-dimensional irreducible representation}{93}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}The $3$-dimensional complex representations}{96}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}The $6$ dimensional representation}{97}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}The $8$-dimensional representation}{98}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}The proper subgroups of $\mathrm {L_{168}}$}{99}{subsection.4.4.7}
+\contentsline {subsubsection}{\numberline {4.4.7.1}The maximal subgroup $\mathrm {G_{21}}$}{100}{subsubsection.4.4.7.1}
+\contentsline {subsubsection}{\numberline {4.4.7.2}The maximal subgroups $\mathrm {O_{24A}}$ and $\mathrm {O_{24B}}$}{101}{subsubsection.4.4.7.2}
+\contentsline {subsubsection}{\numberline {4.4.7.3}The tetrahedral subgroup $\mathrm {T_{12}} \subset \mathrm {O_{24}}$}{103}{subsubsection.4.4.7.3}
+\contentsline {subsubsection}{\numberline {4.4.7.4}The dihedral subgroup $\mathrm {Dih_{3}} \subset \mathrm {O_{24}}$}{103}{subsubsection.4.4.7.4}
+\contentsline {subsubsection}{\numberline {4.4.7.5}Enumeration of the possible subgroups and orbits}{104}{subsubsection.4.4.7.5}
+\contentsline {subsubsection}{\numberline {4.4.7.6}Synopsis of the $\mathrm {L_{168}}$ orbits in the weight lattice $\Lambda _w$}{105}{subsubsection.4.4.7.6}
+\contentsline {section}{\numberline {4.5}Bibliographical Note}{106}{section.4.5}
+\contentsline {chapter}{\numberline {5}MANIFOLDS and LIE GROUPS}{107}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{107}{section.5.1}
+\contentsline {section}{\numberline {5.2}Differentiable Manifolds}{108}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Homeomorphisms and the definition of manifolds}{110}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Functions on manifolds}{115}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Germs of smooth functions}{118}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Tangent and Cotangent Spaces }{119}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Tangent vectors at a point $p\in \mathcal {M}$}{121}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Differential forms at a point $p\in \mathcal {M}$}{125}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}About the concept of fibre--bundle}{128}{section.5.4}
+\contentsline {section}{\numberline {5.5}The notion of Lie Group}{128}{section.5.5}
+\contentsline {section}{\numberline {5.6}Developing the notion of fibre--bundle}{129}{section.5.6}
+\contentsline {section}{\numberline {5.7}Tangent and Cotangent bundles}{137}{section.5.7}
+\contentsline {subsection}{\numberline {5.7.1}Sections of a bundle}{139}{subsection.5.7.1}
+\contentsline {subsubsection}{\numberline {5.7.1.1}Example: holomorphic vector fields on $ \mathbb {S}^2$}{140}{subsubsection.5.7.1.1}
+\contentsline {subsection}{\numberline {5.7.2}The Lie algebra of vector fields}{142}{subsection.5.7.2}
+\contentsline {subsection}{\numberline {5.7.3}The Cotangent bundle and differential forms}{143}{subsection.5.7.3}
+\contentsline {subsection}{\numberline {5.7.4}Differential $k$--forms}{145}{subsection.5.7.4}
+\contentsline {subsubsection}{\numberline {5.7.4.1}Exterior differential forms}{146}{subsubsection.5.7.4.1}
+\contentsline {section}{\numberline {5.8}Lie Groups and Lie Algebras}{147}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}The Lie Algebra of a Lie Group}{147}{subsection.5.8.1}
+\contentsline {subsubsection}{\numberline {5.8.1.1}Left/Right invariant vector fields}{150}{subsubsection.5.8.1.1}
+\contentsline {subsection}{\numberline {5.8.2}Maurer-Cartan forms on Lie group manifolds}{155}{subsection.5.8.2}
+\contentsline {subsection}{\numberline {5.8.3}Maurer Cartan equations}{157}{subsection.5.8.3}
+\contentsline {section}{\numberline {5.9}Matrix Lie Groups}{158}{section.5.9}
+\contentsline {subsection}{\numberline {5.9.1}Some properties of matrices}{158}{subsection.5.9.1}
+\contentsline {subsection}{\numberline {5.9.2}Linear Lie groups}{159}{subsection.5.9.2}
+\contentsline {section}{\numberline {5.10}Bibliographical Note}{160}{section.5.10}
+\contentsline {chapter}{\numberline {6}STRUCTURE of LIE ALGEBRAS}{161}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{161}{section.6.1}
+\contentsline {section}{\numberline {6.2}Homotopy, Homology and Cohomology}{161}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Homotopy}{163}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Homology}{167}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Homology and Cohomology groups: general construction}{174}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Relation between Homotopy and Homology}{176}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Linear Algebra preliminaries}{177}{section.6.3}
+\contentsline {section}{\numberline {6.4}Types of Algebras and the Levi's decomposition}{179}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Solvable Lie Algebras}{180}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Semisimple Lie Algebras}{183}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Levi's decomposition of Lie algebras}{184}{subsection.6.4.3}
+\contentsline {subsubsection}{\numberline {6.4.3.1}Lie algebra Cohomology}{184}{subsubsection.6.4.3.1}
+\contentsline {subsubsection}{\numberline {6.4.3.2}Semidirect product}{185}{subsubsection.6.4.3.2}
+\contentsline {subsection}{\numberline {6.4.4}An illustrative example: the Galilei group}{189}{subsection.6.4.4}
+\contentsline {section}{\numberline {6.5}The Adjoint Representation and Cartan's Criteria}{190}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Cartan's Criteria}{191}{subsection.6.5.1}
+\contentsline {section}{\numberline {6.6}Bibliographical Note}{192}{section.6.6}
+\contentsline {chapter}{\numberline {7}ROOT SYSTEMS and THEIR CLASSIFICATION}{193}{chapter.7}
+\contentsline {section}{\numberline {7.1}Cartan Subalgebras}{193}{section.7.1}
+\contentsline {section}{\numberline {7.2}Root systems}{196}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Final form of the semisimple Lie algebra}{199}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Properties of Root systems}{199}{subsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.2.1}Angles between the roots}{202}{subsubsection.7.2.2.1}
+\contentsline {section}{\numberline {7.3}Simple Roots, the Weyl Group and the Cartan Matrix}{203}{section.7.3}
+\contentsline {section}{\numberline {7.4}Classification of the irreducible root systems}{205}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Dynkin diagrams}{205}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}The classification theorem}{206}{subsection.7.4.2}
+\contentsline {section}{\numberline {7.5}Identification of classical Lie algebras}{213}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}The $\mathfrak {a}_\ell $ root system and the corresponding Lie algebra}{214}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}The $\mathfrak {d}_\ell $ root system and the corresponding Lie algebra}{218}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}The $\mathfrak {b}_\ell $ root system and the corresponding Lie algebra}{219}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.4}The $\mathfrak {c}_\ell $ root system and the corresponding Lie algebra}{221}{subsection.7.5.4}
+\contentsline {subsection}{\numberline {7.5.5}The exceptional Lie algebras}{223}{subsection.7.5.5}
+\contentsline {section}{\numberline {7.6}Bibliographical Note}{223}{section.7.6}
+\contentsline {chapter}{\numberline {8}LIE ALGEBRA REPRESENTATION THEORY}{225}{chapter.8}
+\contentsline {section}{\numberline {8.1}Linear Representations of a Lie Algebra}{225}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Weights of a representation and the weight lattice}{226}{subsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.1.1}\bf The maximally split and the maximal compact real sections of a simple Lie algebra $\mathbb {G}(\mathbb {C})$.}{227}{subsubsection.8.1.1.1}
+\contentsline {subsubsection}{\numberline {8.1.1.2}\bf The subalgebra $A_1\subset G$ associated with a positive root and the properties of the weights.}{230}{subsubsection.8.1.1.2}
+\contentsline {subsubsection}{\numberline {8.1.1.3}\bf Irreducible representations and maximal weights}{232}{subsubsection.8.1.1.3}
+\contentsline {subsubsection}{\numberline {8.1.1.4}\bf Weyl's character formula}{233}{subsubsection.8.1.1.4}
+\contentsline {section}{\numberline {8.2}Discussion of Tensor Products and Examples}{234}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Tensor Products and Irreps}{235}{subsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.1.1}\bf Classical Lie algebras}{237}{subsubsection.8.2.1.1}
+\contentsline {subsubsection}{\numberline {8.2.1.2}\bf Exceptional Lie Algebras}{238}{subsubsection.8.2.1.2}
+\contentsline {subsubsection}{\numberline {8.2.1.3}\bf The value of the highest weight module construction}{239}{subsubsection.8.2.1.3}
+\contentsline {subsection}{\numberline {8.2.2}The Lie algebra $A_2$, its Weyl group and examples of its representations}{239}{subsection.8.2.2}
+\contentsline {subsubsection}{\numberline {8.2.2.1}The Weyl group of $A_2$}{242}{subsubsection.8.2.2.1}
+\contentsline {subsubsection}{\numberline {8.2.2.2}The weight lattice and the weights of some irreps}{243}{subsubsection.8.2.2.2}
+\contentsline {subsubsection}{\numberline {8.2.2.3}\bf The weights of the fundamental representation}{244}{subsubsection.8.2.2.3}
+\contentsline {subsubsection}{\numberline {8.2.2.4}\bf The weights of the adjoint representation: the octet.}{246}{subsubsection.8.2.2.4}
+\contentsline {subsubsection}{\numberline {8.2.2.5}\bf The weights of a 15-dimensional representation.}{246}{subsubsection.8.2.2.5}
+\contentsline {subsection}{\numberline {8.2.3}The Lie algebra $\mathfrak {sp}(4,\mathbb {R})\simeq \mathfrak {so}(2,3)$, its fundamental representation and its Weyl group}{249}{subsection.8.2.3}
+\contentsline {subsubsection}{\numberline {8.2.3.1}The root system}{251}{subsubsection.8.2.3.1}
+\contentsline {subsubsection}{\numberline {8.2.3.2}The Weyl group $\mathfrak {sp}(4,\mathbb {R})$}{253}{subsubsection.8.2.3.2}
+\contentsline {subsubsection}{\numberline {8.2.3.3}Construction of the $\mathfrak {sp}(4,\mathbb {R})$ Lie algebra}{254}{subsubsection.8.2.3.3}
+\contentsline {subsubsection}{\numberline {8.2.3.4}Weights of the vector, spinor and adjoint representations}{255}{subsubsection.8.2.3.4}
+\contentsline {subsubsection}{\numberline {8.2.3.5}\bf Weights of the $4$-dimensional spinor representation}{255}{subsubsection.8.2.3.5}
+\contentsline {subsubsection}{\numberline {8.2.3.6}\bf Weights of the $5$-dimensional vector representation}{256}{subsubsection.8.2.3.6}
+\contentsline {subsubsection}{\numberline {8.2.3.7}\bf Weights of the $10$-dimensional adjoint representation}{257}{subsubsection.8.2.3.7}
+\contentsline {subsubsection}{\numberline {8.2.3.8}Spinor interpretation of the $4$-dimensional representation}{258}{subsubsection.8.2.3.8}
+\contentsline {subsubsection}{\numberline {8.2.3.9}Maximal compact subgroup of the maximally split real section}{260}{subsubsection.8.2.3.9}
+\contentsline {section}{\numberline {8.3}Conclusions for this chapter}{261}{section.8.3}
+\contentsline {section}{\numberline {8.4}Bibliographical Note}{261}{section.8.4}
+\contentsline {chapter}{\numberline {9}EXCEPTIONAL LIE ALGEBRAS}{263}{chapter.9}
+\contentsline {section}{\numberline {9.1}The exceptional Lie algebra $\mathfrak {g}_2$}{263}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}A golden splitting for quaternionic algebras}{268}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}The golden splitting of the quaternionic algebra $\mathfrak {g}_2$}{271}{subsection.9.1.2}
+\contentsline {subsubsection}{\numberline {9.1.2.1}The $J={\textstyle \frac {3}{2}}$-representation of $\mathrm {SL(2,\mathbb {R})}$ }{271}{subsubsection.9.1.2.1}
+\contentsline {subsubsection}{\numberline {9.1.2.2}Putting the $\mathfrak {g}_2$ Lie algebra in the quaternionic form}{273}{subsubsection.9.1.2.2}
+\contentsline {subsection}{\numberline {9.1.3}Chevalley-Serre basis}{274}{subsection.9.1.3}
+\contentsline {subsubsection}{\numberline {9.1.3.1}The $\mathfrak {g}_{2}$ Lie algebra in terms of Chevalley triples}{275}{subsubsection.9.1.3.1}
+\contentsline {section}{\numberline {9.2}The Lie algebra $\mathfrak {f}_4$ and its fundamental representation}{276}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Explicit construction of the fundamental and adjoint representation of $\mathfrak {f}_4$}{280}{subsection.9.2.1}
+\contentsline {section}{\numberline {9.3}The exceptional Lie algebra $\mathfrak {e}_{7}$}{286}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}The matrices of the fundamental {\bf 56} representation}{292}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}The $\mathfrak {sl}(8,\mathbb {R})$ subalgebra}{295}{subsection.9.3.2}
+\contentsline {section}{\numberline {9.4}The exceptional Lie algebra $\mathfrak {e}_{8}$}{295}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}Construction of the adjoint representation}{298}{subsection.9.4.1}
+\contentsline {subsubsection}{\numberline {9.4.1.1}The cocycle $N^{\alpha \beta }$}{299}{subsubsection.9.4.1.1}
+\contentsline {subsubsection}{\numberline {9.4.1.2}The Cartan generators}{300}{subsubsection.9.4.1.2}
+\contentsline {subsubsection}{\numberline {9.4.1.3}The step operators associated with simple roots}{300}{subsubsection.9.4.1.3}
+\contentsline {subsubsection}{\numberline {9.4.1.4}\sc $1^{st}$ step}{300}{subsubsection.9.4.1.4}
+\contentsline {subsubsection}{\numberline {9.4.1.5}\sc $2^{nd}$ step}{300}{subsubsection.9.4.1.5}
+\contentsline {subsubsection}{\numberline {9.4.1.6}\sc $3^{rd}$ step}{301}{subsubsection.9.4.1.6}
+\contentsline {subsubsection}{\numberline {9.4.1.7}\sc $4^{th}$ step}{301}{subsubsection.9.4.1.7}
+\contentsline {subsection}{\numberline {9.4.2}Final comments on the $e_{8}$ root systems}{302}{subsection.9.4.2}
+\contentsline {subsubsection}{\numberline {9.4.2.1}\sc The $ \mathfrak {e}_{7(7)} \subset \mathrm { \mathfrak {e}_{8(8)}}$ simple root basis}{302}{subsubsection.9.4.2.1}
+\contentsline {section}{\numberline {9.5}Bibliographical Note}{303}{section.9.5}
+\contentsline {chapter}{\numberline {10}A PRIMARY on the THEORY of CONNECTIONS and METRICS}{305}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{305}{section.10.1}
+\contentsline {section}{\numberline {10.2}Connections on Principal Bundles: the Mathematical Definition}{306}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Ehresmann connections on a principle fibre bundle}{306}{subsection.10.2.1}
+\contentsline {subsubsection}{\numberline {10.2.1.1}The connection one-form}{309}{subsubsection.10.2.1.1}
+\contentsline {subsubsection}{\numberline {10.2.1.2}\textbf {Gauge Transformations}}{311}{subsubsection.10.2.1.2}
+\contentsline {subsubsection}{\numberline {10.2.1.3}\textbf {Horizontal vector fields and covariant derivatives}}{311}{subsubsection.10.2.1.3}
+\contentsline {section}{\numberline {10.3}Connections on a Vector Bundle}{314}{section.10.3}
+\contentsline {section}{\numberline {10.4}An illustrative example of fibre--bundle and connection}{317}{section.10.4}
+\contentsline {subsection}{\numberline {10.4.1}The magnetic monopole and the Hopf fibration}{317}{subsection.10.4.1}
+\contentsline {subsubsection}{\numberline {10.4.1.1}\textbf {The case $n=1$ and the Hopf fibration of $\mathbb {S}^3$}}{319}{subsubsection.10.4.1.1}
+\contentsline {subsubsection}{\numberline {10.4.1.2}\textbf {The $\mathrm {U(1)}$--connection of the Dirac magnetic monopole}}{321}{subsubsection.10.4.1.2}
+\contentsline {section}{\numberline {10.5}Riemannian and Pseudo Riemannian metrics: the Mathematical Definition}{322}{section.10.5}
+\contentsline {subsection}{\numberline {10.5.1}Signatures}{324}{subsection.10.5.1}
+\contentsline {section}{\numberline {10.6}The Levi Civita Connection}{325}{section.10.6}
+\contentsline {subsection}{\numberline {10.6.1}Affine connections}{326}{subsection.10.6.1}
+\contentsline {subsection}{\numberline {10.6.2}Curvature and Torsion of an Affine Connection}{327}{subsection.10.6.2}
+\contentsline {subsubsection}{\numberline {10.6.2.1}\textbf {Torsion and Torsionless connections }}{328}{subsubsection.10.6.2.1}
+\contentsline {subsubsection}{\numberline {10.6.2.2}\textbf {The Levi-Civita metric connection}}{328}{subsubsection.10.6.2.2}
+\contentsline {section}{\numberline {10.7}Geodesics}{330}{section.10.7}
+\contentsline {section}{\numberline {10.8}Geodesics in Lorentzian and Riemannian manifolds: two simple examples}{332}{section.10.8}
+\contentsline {subsection}{\numberline {10.8.1}The Lorentzian example of $\mathrm {dS}_2$}{332}{subsection.10.8.1}
+\contentsline {subsubsection}{\numberline {10.8.1.1}Null geodesics}{335}{subsubsection.10.8.1.1}
+\contentsline {subsubsection}{\numberline {10.8.1.2}Time-like geodesics}{336}{subsubsection.10.8.1.2}
+\contentsline {subsubsection}{\numberline {10.8.1.3}Space-like geodesics}{337}{subsubsection.10.8.1.3}
+\contentsline {subsection}{\numberline {10.8.2}The Riemannian example of the Lobachevskij-Poincar\'e plane}{338}{subsection.10.8.2}
+\contentsline {subsection}{\numberline {10.8.3}Another Riemannian example: the catenoid}{341}{subsection.10.8.3}
+\contentsline {section}{\numberline {10.9}Bibliographical Note}{343}{section.10.9}
+\contentsline {chapter}{\numberline {11}ISOMETRIES and THE GEOMETRY OF COSET MANIFOLDS}{345}{chapter.11}
+\contentsline {section}{\numberline {11.1}Conceptual and Historical Introduction}{345}{section.11.1}
+\contentsline {subsection}{\numberline {11.1.1}Symmetric Spaces and Elie Cartan}{346}{subsection.11.1.1}
+\contentsline {subsection}{\numberline {11.1.2}Where and how do coset manifolds come into play?}{347}{subsection.11.1.2}
+\contentsline {subsection}{\numberline {11.1.3}The deep insight of supersymmetry}{348}{subsection.11.1.3}
+\contentsline {section}{\numberline {11.2}Isometries and Killing vector fields}{349}{section.11.2}
+\contentsline {section}{\numberline {11.3}Coset manifolds}{349}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}The geometry of coset manifolds}{355}{subsection.11.3.1}
+\contentsline {subsubsection}{\numberline {11.3.1.1}Infinitesimal transformations and Killing vectors}{356}{subsubsection.11.3.1.1}
+\contentsline {subsubsection}{\numberline {11.3.1.2}Vielbeins, connections and metrics on $\mathrm {G}/\mathrm {H}$}{359}{subsubsection.11.3.1.2}
+\contentsline {subsubsection}{\numberline {11.3.1.3}Lie derivatives}{361}{subsubsection.11.3.1.3}
+\contentsline {subsubsection}{\numberline {11.3.1.4}Invariant metrics on coset manifolds}{363}{subsubsection.11.3.1.4}
+\contentsline {subsubsection}{\numberline {11.3.1.5}For spheres and pseudo-spheres}{366}{subsubsection.11.3.1.5}
+\contentsline {section}{\numberline {11.4}The Real Sections of a Complex Lie Algebra and Symmetric Spaces}{366}{section.11.4}
+\contentsline {section}{\numberline {11.5}The Solvable Group Representation of Non-Compact Coset Manifolds}{369}{section.11.5}
+\contentsline {subsection}{\numberline {11.5.1}The Tits Satake projection: just a flash}{372}{subsection.11.5.1}
+\contentsline {section}{\numberline {11.6}Bibliographical Note}{373}{section.11.6}
+\contentsline {chapter}{\numberline {12}AN ANTHOLOGY of GROUP THEORY PHYSICAL APPLICATIONS}{375}{chapter.12}
+\contentsline {section}{\numberline {12.1}Introduction}{375}{section.12.1}
+\contentsline {section}{\numberline {12.2}The Full Tetrahedral Group and the vibrations of $XY_4$ molecules}{376}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}Group Theory of the full Tetrahedral group}{378}{subsection.12.2.1}
+\contentsline {subsubsection}{\numberline {12.2.1.1}Generators of the extended tetrahedral group}{381}{subsubsection.12.2.1.1}
+\contentsline {subsubsection}{\numberline {12.2.1.2}Creation of a basis of vectors for the displacements of the atoms}{381}{subsubsection.12.2.1.2}
+\contentsline {subsubsection}{\numberline {12.2.1.3}Physical interpretation}{383}{subsubsection.12.2.1.3}
+\contentsline {paragraph}{\numberline {12.2.1.3.1}The breathing mode}{383}{paragraph.12.2.1.3.1}
+\contentsline {paragraph}{\numberline {12.2.1.3.2}The rotational modes}{383}{paragraph.12.2.1.3.2}
+\contentsline {paragraph}{\numberline {12.2.1.3.3}The other modes}{385}{paragraph.12.2.1.3.3}
+\contentsline {section}{\numberline {12.3}The hidden symmetry of the hydrogen atom spectrum}{386}{section.12.3}
+\contentsline {subsection}{\numberline {12.3.1}Classical Kepler problem}{387}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.2}Hydrogen atom}{390}{subsection.12.3.2}
+\contentsline {section}{\numberline {12.4}The AdS/CFT correspondence and (super) Lie Algebra Theory}{392}{section.12.4}
+\contentsline {subsection}{\numberline {12.4.1}Particles in anti de Sitter space and induced representations}{395}{subsection.12.4.1}
+\contentsline {subsubsection}{\numberline {12.4.1.1}The scalar $s=0$ particle}{397}{subsubsection.12.4.1.1}
+\contentsline {subsubsection}{\numberline {12.4.1.2}The spinor $s={\textstyle \frac {1}{2}}$ particle}{398}{subsubsection.12.4.1.2}
+\contentsline {subsubsection}{\numberline {12.4.1.3}The spin $s=1$ particle}{398}{subsubsection.12.4.1.3}
+\contentsline {subsubsection}{\numberline {12.4.1.4}The spin $s={\textstyle \frac {3}{2}}$ particle}{399}{subsubsection.12.4.1.4}
+\contentsline {subsubsection}{\numberline {12.4.1.5}The spin $s=2$ particle}{400}{subsubsection.12.4.1.5}
+\contentsline {subsubsection}{\numberline {12.4.1.6}Summary of the wave equations}{401}{subsubsection.12.4.1.6}
+\contentsline {subsection}{\numberline {12.4.2}Unitary irreducible representations of $\mathrm {SO(2,3)}$}{401}{subsection.12.4.2}
+\contentsline {subsection}{\numberline {12.4.3}The $\mathrm {Osp({\cal N}\delimiter "026A30C 4)}$ superalgebra: definition, properties and notations}{406}{subsection.12.4.3}
+\contentsline {subsubsection}{\numberline {12.4.3.1}Compact and non compact five gradings of the $\mathrm {Osp({\cal N}|4)}$ superalgebra}{409}{subsubsection.12.4.3.1}
+\contentsline {subsubsection}{\numberline {12.4.3.2}The lowest weight UIR.s as seen from the compact and non compact five--grading viewpoint}{413}{subsubsection.12.4.3.2}
+\contentsline {subsection}{\numberline {12.4.4}Structure of the $\mathrm {Osp\left (2|4\right )}$ multiplets}{416}{subsection.12.4.4}
+\contentsline {section}{\numberline {12.5}Bibliographical Note}{425}{section.12.5}
+\contentsline {chapter}{\numberline {A}EXERCISES}{427}{appendix.A}
+\contentsline {section}{\numberline {A.1}Excercises for Chapter~\ref {algebricone}}{428}{section.A.1}
+\contentsline {section}{\numberline {A.2}Excercises for Chapter~\ref {bestiarius}}{429}{section.A.2}
+\contentsline {section}{\numberline {A.3}Excercises for Chapter ~\ref {genepropegroup}.}{431}{section.A.3}
+\contentsline {section}{\numberline {A.4}Solutions and answers to selected problems}{437}{section.A.4}
+\contentsline {chapter}{\numberline {B}MATHEMATICA NOTEBOOKS}{473}{appendix.B}
+\contentsline {section}{\numberline {B.1}Introduction}{473}{section.B.1}
+\contentsline {section}{\numberline {B.2}The Notebook e88construziaNew}{473}{section.B.2}
+\contentsline {section}{\numberline {B.3}The Notebook g2construzia}{474}{section.B.3}
+\contentsline {section}{\numberline {B.4}The Notebook e77construzia}{475}{section.B.4}
+\contentsline {subsection}{\numberline {B.4.1}Instructions for the User}{475}{subsection.B.4.1}
+\contentsline {section}{\numberline {B.5}The Notebook F44construzia.nb}{476}{section.B.5}
+\contentsline {subsection}{\numberline {B.5.1}The F4 Lie algebra}{476}{subsection.B.5.1}
+\contentsline {subsection}{\numberline {B.5.2}Maximal compact subalgebra $\mathfrak {su}(2) \times \mathfrak {sp}(6,\mathbb {R}) \subset \mathrm {F_{(4,4)}}$}{477}{subsection.B.5.2}
+\contentsline {subsubsection}{\numberline {B.5.2.1}The subalgebra $\pmb {\mathfrak {su}(2)}$}{477}{subsubsection.B.5.2.1}
+\contentsline {subsubsection}{\numberline {B.5.2.2}The subalgebra $\pmb {\mathfrak {usp}(6)}$}{478}{subsubsection.B.5.2.2}
+\contentsline {subsection}{\numberline {B.5.3}The $\pmb {\mathfrak {sl}(2,\mathbb {R}) \times \mathfrak {sp}(6,\mathbb {R})}$ subalgebra and the \pmb {W}-representation.}{478}{subsection.B.5.3}
+\contentsline {subsubsection}{\numberline {B.5.3.1}The subalgebra $\pmb {\mathfrak {sl}(2,\mathbb {R})}$}{478}{subsubsection.B.5.3.1}
+\contentsline {subsubsection}{\numberline {B.5.3.2}The Lie algebra \pmb {$\mathfrak {sp}(6,\mathbb {R})$}}{479}{subsubsection.B.5.3.2}
+\contentsline {section}{\numberline {B.6}The Notebook L168Group}{480}{section.B.6}
+\contentsline {subsection}{\numberline {B.6.1}Description of the generated objects}{481}{subsection.B.6.1}
+\contentsline {subsubsection}{\numberline {B.6.1.1}Generators}{481}{subsubsection.B.6.1.1}
+\contentsline {subsubsection}{\numberline {B.6.1.2}Conjugacy classes}{481}{subsubsection.B.6.1.2}
+\contentsline {subsubsection}{\numberline {B.6.1.3}Characters}{482}{subsubsection.B.6.1.3}
+\contentsline {subsubsection}{\numberline {B.6.1.4}Embedding into G2 and $\tau $-matrices}{482}{subsubsection.B.6.1.4}
+\contentsline {subsubsection}{\numberline {B.6.1.5}The maximal subgroups G21 and O24A, O24B}{482}{subsubsection.B.6.1.5}
+\contentsline {subsubsection}{\numberline {B.6.1.6}The group G21}{482}{subsubsection.B.6.1.6}
+\contentsline {subsubsection}{\numberline {B.6.1.7}Irreducible Representations of G21}{483}{subsubsection.B.6.1.7}
+\contentsline {subsubsection}{\numberline {B.6.1.8}The octahedral subgroups}{484}{subsubsection.B.6.1.8}
+\contentsline {subsubsection}{\numberline {B.6.1.9}Irreducible representations of $\mathrm {O24}$}{484}{subsubsection.B.6.1.9}
+\contentsline {subsubsection}{\numberline {B.6.1.10}Generators of O24A and O24B}{484}{subsubsection.B.6.1.10}
+\contentsline {subsection}{\numberline {B.6.2}The basic commands of the present package}{485}{subsection.B.6.2}
+\contentsline {subsubsection}{\numberline {B.6.2.1}Construction of the representation of the group L168 and of its maximal subgroups and decomposition into irreps}{485}{subsubsection.B.6.2.1}
+\contentsline {subsubsection}{\numberline {B.6.2.2}Auxiliary group theoretical routines used by the package but available also to the user}{486}{subsubsection.B.6.2.2}
+\contentsline {subsubsection}{\numberline {B.6.2.3}Additional specialized routines for the analysis of subgroups and orbits in the 7-dimensional momentum lattice}{486}{subsubsection.B.6.2.3}
+\contentsline {subsubsection}{\numberline {B.6.2.4}The irriducible representation of \(L_{168}\)}{487}{subsubsection.B.6.2.4}
+\contentsline {paragraph}{\numberline {B.6.2.4.1}The 3-dimensional complex representation}{487}{paragraph.B.6.2.4.1}
+\contentsline {paragraph}{\numberline {B.6.2.4.2}The 6-dimensional representation}{488}{paragraph.B.6.2.4.2}
+\contentsline {paragraph}{\numberline {B.6.2.4.3}The 8-dimensional representation}{488}{paragraph.B.6.2.4.3}
+\contentsline {subsubsection}{\numberline {B.6.2.5}Prepared characters}{488}{subsubsection.B.6.2.5}
+\contentsline {subsubsection}{\numberline {B.6.2.6}Generation of orbits in the \(\mathbb {C}^3\):}{488}{subsubsection.B.6.2.6}
+\contentsline {subsubsection}{\numberline {B.6.2.7}Constructing the Group \(L168\) acting on \(\mathbb {C}^3\)}{489}{subsubsection.B.6.2.7}
+\contentsline {section}{\numberline {B.7}The NoteBook octagroup2}{490}{section.B.7}
+\contentsline {subsection}{\numberline {B.7.1}Objects and Commands available to the user}{490}{subsection.B.7.1}
+\contentsline {subsection}{\numberline {B.7.2}Auxiliary group theoretical routines used by the package but available also to the user}{491}{subsection.B.7.2}
+\contentsline {section}{\numberline {B.8}The NoteBook metricgrav}{493}{section.B.8}
+\contentsline {subsection}{\numberline {B.8.1}Description of the programme}{493}{subsection.B.8.1}
+\contentsline {subsubsection}{\numberline {B.8.1.1}What the NoteBook does}{493}{subsubsection.B.8.1.1}
+\contentsline {subsection}{\numberline {B.8.2}Initialization and inputs to be supplied}{494}{subsection.B.8.2}
+\contentsline {subsection}{\numberline {B.8.3}Produced outputs}{494}{subsection.B.8.3}
+\contentsline {section}{\numberline {B.9}The Notebook Vielbgrav}{494}{section.B.9}
+\contentsline {subsection}{\numberline {B.9.1}Instructions for the user}{495}{subsection.B.9.1}
+\contentsline {subsubsection}{\numberline {B.9.1.1}The inputs}{495}{subsubsection.B.9.1.1}
+\contentsline {subsubsection}{\numberline {B.9.1.2}Activating the calculation}{495}{subsubsection.B.9.1.2}
+\contentsline {subsubsection}{\numberline {B.9.1.3}The obtained outputs}{495}{subsubsection.B.9.1.3}
+\contentsline {section}{\numberline {B.10}Roots of $\mathfrak {e}_8$}{495}{section.B.10}
+\contentsline {subsection}{\numberline {B.10.1}Listing of the $\mathfrak {e}_{8}$ roots}{496}{subsection.B.10.1}
+\contentsline {schapter}{Bibliography}{507}{appendix*.117}
